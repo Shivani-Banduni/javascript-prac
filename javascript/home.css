@@ -1,0 +1,7 @@
+#main{
+    /* background-color:green; */
+    border: 2px solid black;
+    height: 300px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
